@@ -16,7 +16,7 @@ This makes the lab suitable for broader **network security, blue-team, and SOC t
 
 ## 📦 VM Download
 
-- Download the VMware image [here](https://github.com/)
+- Download the VMware image [here](https://sourceforge.net/projects/suricata-anti-ddos/files/)
 
 ---
 
