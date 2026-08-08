@@ -13,6 +13,11 @@ By modifying traffic generation, rule sets, and logging configurations, the same
 This makes the lab suitable for broader **network security, blue-team, and SOC training** beyond DDoS use cases.
 
 ---
+## Screenshot
+
+![alt text](SuricataAntiDDoS.png)
+
+---
 
 ## 📦 VM Download
 
