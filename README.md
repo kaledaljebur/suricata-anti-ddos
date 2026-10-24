@@ -42,6 +42,15 @@ This VM is designed for **detection and alert analysis**, not prevention.
 - Uncompress the `.7z` image file
 - Open the VM folder from VMware
 
+### VMware Compatibility Fix
+
+If you encounter a hardware compatibility issue, update the VM's hardware compatibility in VMware:
+
+1. Select the VM, then go to **VM > Manage > Change Hardware Compatibility**.
+2. Click **Next** and select the latest version from the dropdown.
+3. Click **Next**, then choose **Alter this virtual machine**.
+4. Click **Next > Finish**.
+
 ## 🔗 Web Interfaces Available in the VM
 
 The following web interfaces are pre-installed and accessible from within the VM
